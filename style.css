@@ -1,3 +1,9 @@
+body {
+    background-color: black;
+}
+h1 {
+    color: rgb(160, 140, 140);
+}
 .element {
     border: 2px solid ;
     text-align: center;
@@ -27,54 +33,64 @@ img {
 }
 .-noble-gas{
     background-color:cyan;
+    border-color: rgb(160, 140, 140);
+
 }
 
 .-alkali-metal{
     background-color: rgb(189, 0, 0);
     color: white;
-    border-color: black;
+    border-color: rgb(160, 140, 140);
+
 }
 
 .-metalloid{
     background-color:royalblue;
     color: white;
-    border-color: black;
+    border-color: rgb(160, 140, 140);
+
 }
 
 .-reactive-nonmetal{
     background-color: yellow;
+    border-color: rgb(160, 140, 140);
+
 }
 
 .-alkaline-earth-metal{
     background-color: orange;
+    border-color: rgb(160, 140, 140);
+
 }
 
 .-post-transition-metal{
     background-color: purple;
     color: white;
-    border-color: black;
+    border-color: rgb(160, 140, 140);
 }
 
 .-transition-metal{
     background-color: violet;
+    border-color: rgb(160, 140, 140);
+
 }
 
 .-lanthanide{
     background-color: green;
     color: white;
-    border-color: black;
+    border-color: rgb(160, 140, 140);
 }
 
 .-actinide{
     background-color:brown;
     color: white;
-    border-color: black;
+    border-color: rgb(160, 140, 140);
 }
 
 .-unknown{
     background-color: gray;
     color: white;
-    border-color: black;
+    border-color: rgb(160, 140, 140);
 }
 @media (min-width: 1200px) {
 .periodic-table {
