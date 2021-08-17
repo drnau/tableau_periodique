@@ -30,12 +30,15 @@ img {
 }
 
 .-alkali-metal{
-    background-color: red;
+    background-color: rgb(189, 0, 0);
+    color: white;
+    border-color: black;
 }
 
 .-metalloid{
     background-color:royalblue;
     color: white;
+    border-color: black;
 }
 
 .-reactive-nonmetal{
@@ -49,6 +52,7 @@ img {
 .-post-transition-metal{
     background-color: purple;
     color: white;
+    border-color: black;
 }
 
 .-transition-metal{
@@ -58,16 +62,19 @@ img {
 .-lanthanide{
     background-color: green;
     color: white;
+    border-color: black;
 }
 
 .-actinide{
     background-color:brown;
     color: white;
+    border-color: black;
 }
 
 .-unknown{
     background-color: gray;
     color: white;
+    border-color: black;
 }
 @media (min-width: 1200px) {
 .periodic-table {
